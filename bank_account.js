@@ -1,6 +1,6 @@
 //Backend Javascript Challenge Document
 
-let saldo = 50000;
+let saldo = 0;
 
 //Fungsi untuk menambah saldo
 function addSaldo (){
