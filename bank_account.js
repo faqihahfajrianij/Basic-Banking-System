@@ -65,5 +65,5 @@ do {
             alert("menu tidak diketahui!");
     }
 
-    ulang = confirm("Ulangi transaksi? awhhhh");
+    ulang = confirm("Ulangi transaksi?");
 } while (ulang);%                                                                                                                           
